@@ -1,0 +1,15 @@
+# Ignore Data
+*.bin
+*.txt
+*.json
+
+# Ignore Model Weights
+*.pt
+
+# Ignore Python Caches
+__pycache__/
+*.pyc
+
+# Ignore Virtual Envs
+.venv/
+env/

@@ -1,0 +1,18 @@
+[package]
+name = "rust_tok"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rust_tok"
+crate-type = ["cdylib"]
+
+[dependencies]
+# UPDATE THIS LINE TO 0.23
+pyo3 = { version = "0.23", features = ["extension-module"] } 
+
+rayon = "1.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+regex = "1.10"
+unicode-normalization = "0.1"
