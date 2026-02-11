@@ -7,9 +7,6 @@ GW is a decoder-only Transformer model designed to generate text. It features a 
 
 This project demonstrates the end-to-end process of building an LLM: from raw data processing and custom tokenizer creation to model training and web deployment.
 
-![GW AI Demo](https://placehold.co/600x400?text=GW+AI+Streamlit+Interface)
-*(You can replace this link with a screenshot of your app later!)*
-
 ---
 
 ## 🚀 Features
