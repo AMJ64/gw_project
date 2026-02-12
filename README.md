@@ -76,24 +76,3 @@ rust_tok/: The source code for the custom Rust tokenizer.
 
 📜 License
 MIT License
-
-
-### 📝 Step 3: Push the Changes to GitHub
-Now that you've created the file, you need to send it to the cloud.
-
-Run these 3 commands in your terminal:
-
-1.  **Add the file:**
-    bash
-    git add README.md
-    
-2.  **Commit:**
-    bash
-    git commit -m "Added professional README"
-    ```
-3.  **Push:**
-    bash
-    git push
-    ```
-
-**Go refresh your GitHub page.** You should now see this beautiful documentation on the fron
